@@ -1,0 +1,200 @@
+[
+    {
+      "Country": "Argentina",
+      "Region": "Latin America",
+      "Forest Footprint": 0.29,
+      "Forest Land": 0.66
+    },
+    {
+      "Country": "Bahamas",
+      "Region": "Latin America",
+      "Forest Footprint": 0.19,
+      "Forest Land": 1.18
+    },
+    {
+      "Country": "Barbados",
+      "Region": "Latin America",
+      "Forest Footprint": 0.14,
+      "Forest Land": 0.02
+    },
+    {
+      "Country": "Bolivia",
+      "Region": "Latin America",
+      "Forest Footprint": 0.17,
+      "Forest Land": 13.86
+    },
+    {
+      "Country": "Brazil",
+      "Region": "Latin America",
+      "Forest Footprint": 0.6,
+      "Forest Land": 6.82
+    },
+    {
+      "Country": "Cayman Islands",
+      "Region": "Latin America",
+      "Forest Footprint": 1.23,
+      "Forest Land": 0.19
+    },
+    {
+      "Country": "Chile",
+      "Region": "Latin America",
+      "Forest Footprint": 0.99,
+      "Forest Land": 2.19
+    },
+    {
+      "Country": "Colombia",
+      "Region": "Latin America",
+      "Forest Footprint": 0.16,
+      "Forest Land": 2.09
+    },
+    {
+      "Country": "Costa Rica",
+      "Region": "Latin America",
+      "Forest Footprint": 0.68,
+      "Forest Land": 0.63
+    },
+    {
+      "Country": "Cuba",
+      "Region": "Latin America",
+      "Forest Footprint": 0.09,
+      "Forest Land": 0.23
+    },
+    {
+      "Country": "Dominica",
+      "Region": "Latin America",
+      "Forest Footprint": 0.14,
+      "Forest Land": 0.52
+    },
+    {
+      "Country": "Dominican Republic",
+      "Region": "Latin America",
+      "Forest Footprint": 0.12,
+      "Forest Land": 0.16
+    },
+    {
+      "Country": "Ecuador",
+      "Region": "Latin America",
+      "Forest Footprint": 0.24,
+      "Forest Land": 1.41
+    },
+    {
+      "Country": "El Salvador",
+      "Region": "Latin America",
+      "Forest Footprint": 0.4,
+      "Forest Land": 0.04
+    },
+    {
+      "Country": "French Guiana",
+      "Region": "Latin America",
+      "Forest Footprint": 0.46,
+      "Forest Land": 95.16
+    },
+    {
+      "Country": "Guadeloupe",
+      "Region": "Latin America",
+      "Forest Footprint": 0.16,
+      "Forest Land": 0.13
+    },
+    {
+      "Country": "Guatemala",
+      "Region": "Latin America",
+      "Forest Footprint": 0.58,
+      "Forest Land": 0.34
+    },
+    {
+      "Country": "Guyana",
+      "Region": "Latin America",
+      "Forest Footprint": 0.77,
+      "Forest Land": 59.19
+    },
+    {
+      "Country": "Haiti",
+      "Region": "Latin America",
+      "Forest Footprint": 0.1,
+      "Forest Land": 0.01
+    },
+    {
+      "Country": "Honduras",
+      "Region": "Latin America",
+      "Forest Footprint": 0.5,
+      "Forest Land": 0.89
+    },
+    {
+      "Country": "Jamaica",
+      "Region": "Latin America",
+      "Forest Footprint": 0.18,
+      "Forest Land": 0.1
+    },
+    {
+      "Country": "Martinique",
+      "Region": "Latin America",
+      "Forest Footprint": 0.12,
+      "Forest Land": 0.1
+    },
+    {
+      "Country": "Mexico",
+      "Region": "Latin America",
+      "Forest Footprint": 0.25,
+      "Forest Land": 0.47
+    },
+    {
+      "Country": "Nicaragua",
+      "Region": "Latin America",
+      "Forest Footprint": 0.42,
+      "Forest Land": 0.74
+    },
+    {
+      "Country": "Panama",
+      "Region": "Latin America",
+      "Forest Footprint": 0.19,
+      "Forest Land": 1.74
+    },
+    {
+      "Country": "Paraguay",
+      "Region": "Latin America",
+      "Forest Footprint": 0.83,
+      "Forest Land": 5.54
+    },
+    {
+      "Country": "Peru",
+      "Region": "Latin America",
+      "Forest Footprint": 0.19,
+      "Forest Land": 2.82
+    },
+    {
+      "Country": "Saint Kitts and Nevis",
+      "Region": "Latin America",
+      "Forest Footprint": 0.09,
+      "Forest Land": 0.17
+    },
+    {
+      "Country": "Saint Lucia",
+      "Region": "Latin America",
+      "Forest Footprint": 0.17,
+      "Forest Land": 0.1
+    },
+    {
+      "Country": "Suriname",
+      "Region": "Latin America",
+      "Forest Footprint": 0.52,
+      "Forest Land": 81.52
+    },
+    {
+      "Country": "Trinidad and Tobago",
+      "Region": "Latin America",
+      "Forest Footprint": 0.27,
+      "Forest Land": 0.15
+    },
+    {
+      "Country": "Uruguay",
+      "Region": "Latin America",
+      "Forest Footprint": 0.55,
+      "Forest Land": 1.22
+    },
+    {
+      "Country": "Bolivarian Republic of Venezuela",
+      "Region": "Latin America",
+      "Forest Footprint": 0.12,
+      "Forest Land": 1.79
+    }
+  ]
