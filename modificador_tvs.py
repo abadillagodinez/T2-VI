@@ -1,5 +1,5 @@
 def main():
-    f = open(r'2016 Global Ecological Footprint - 2016 Global Ecological Footprint.txt')
+    f = open(r'nuevo.csv')
     g = open('nuevo.txt','w')
     contenido_archivo = f.read()
     nuevo = ""
