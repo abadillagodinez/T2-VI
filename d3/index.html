@@ -11,8 +11,8 @@
 
   // set the dimensions and margins of the graph
   var margin = {top: 10, right: 30, bottom: 250, left: 80},
-      width = 1800 - margin.left - margin.right,
-      height = 850 - margin.top - margin.bottom;
+      width = 1600 - margin.left - margin.right,
+      height = 700 - margin.top - margin.bottom;
   
   // append the svg object to the body of the page
   var svg = d3.select("#my_dataviz")
@@ -67,7 +67,7 @@
     // color palette = one color per subgroup
     var color = d3.scaleOrdinal()
       .domain(subgroups)
-      .range(['#33DE1D','#2F5E29'])
+      .range(['#1CD933'])
   
     // Show the bars
     svg.append("g")
